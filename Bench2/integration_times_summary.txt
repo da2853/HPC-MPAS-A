@@ -1,0 +1,7 @@
+log.atmosphere.mixing2d_smagorinsky.txt: 858.5899928219993 s
+log.atmosphere.mixinganother_scheme.txt: 838.2704318600003 s
+log.atmosphere.order2.txt: 863.8572935499994 s
+log.atmosphere.order3.txt: 867.2686744030001 s
+log.atmosphere.wadv2.txt: 834.5387750619996 s
+log.atmosphere.wadv3.txt: 850.4929483579996 s
+log.atmosphere.wadv4.txt: 855.0799866859999 s

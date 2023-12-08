@@ -1,0 +1,16 @@
+log.atmosphere.epssm0.05.txt: 812.5525639399993 s
+log.atmosphere.epssm0.1.txt: 812.4417229689986 s
+log.atmosphere.epssm0.15.txt: 813.2100840660014 s
+log.atmosphere.epssm0.2.txt: 812.7460504370009 s
+log.atmosphere.pionumiotasks0.txt: 813.1446029539999 s
+log.atmosphere.pionumiotasks1.txt: 812.8879220839983 s
+log.atmosphere.pionumiotasks2.txt: 812.9063930720006 s
+log.atmosphere.pionumiotasks4.txt: 812.9813571710015 s
+log.atmosphere.piostride1.txt: 813.4775793209983 s
+log.atmosphere.piostride2.txt: 814.0424095719991 s
+log.atmosphere.piostride4.txt: 813.4552490570005 s
+log.atmosphere.piostride8.txt: 813.5873073709987 s
+log.atmosphere.smdiv0.05.txt: 812.923802323999 s
+log.atmosphere.smdiv0.1.txt: 813.2360198870007 s
+log.atmosphere.smdiv0.15.txt: 813.1166993520004 s
+log.atmosphere.smdiv0.20.txt: 813.1662414499996 s
